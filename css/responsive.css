@@ -1,0 +1,162 @@
+/**********<section class="top-banner"> Start**********/
+
+@media (max-width: 768px) {
+    .top-banner .half-width {
+        width: 100%;
+        float: none;
+        margin-left: 0;
+        padding-left: 0;
+        text-align: center;
+        padding: 50px 0;
+    }
+    .top-banner .half-width img {
+        width: 100%;
+    }
+    .top-banner  .link-button {
+        margin-top: 20px;
+        display: inline-block;
+    }
+    .top-banner h1 {
+        font-size: 35px;
+        margin: 0;
+    }
+    @media (max-width: 400px) {
+        .top-banner h3 {
+            font-size: 14px;
+            padding-bottom: 20px;
+        }
+        .top-banner h1 {
+            font-size: 16px;
+    }
+    @media (max-width: 410px) {
+        .top-banner h1 {
+            font-size: 20px;
+        }
+    }
+    @media (max-width: 330px) {
+        .top-banner h3 {
+            font-size: 12px;
+        }
+    }
+    @media (max-width: 265px) {
+        .top-banner h3 {
+            font-size: 10px;
+        }
+        .top-banner h1 {
+            font-size: 15px;
+        }
+    }
+}
+/**********<section class="top-banner"> End**********/
+
+
+
+/**********<section class="dream-area"> Start**********/
+
+@media (max-width: 768px) {
+    .dream-area {
+        background-image: none;
+        background-repeat: none;
+        background-position: none;
+    }
+    .dream-area .half-width {
+        width: 100%;
+        float: none;
+        margin-left: 0;
+        padding-left: 0;
+        text-align: center;
+        padding: 40px 0;
+    }
+    .dream-area .half-width img {
+        width: 100%;
+    }
+    .dream-area  .link-button {
+        margin-top: 20px;
+        display: inline-block;
+    }
+    .dream-area h2 {
+        font-size: 25px;
+        margin: 0;
+    }
+    @media (max-width: 400px) {
+        .dream-area h3 {
+            font-size: 14px;
+            padding-bottom: 20px;
+        }
+        .dream-area h2 {
+            font-size: 16px;
+    }
+    .dream-area  .link-button {
+        font-size: 15px;
+        padding: 10px;
+    }
+    @media (max-width: 410px) {
+        .dream-area h2 {
+            font-size: 20px;
+        }
+    }
+    @media (max-width: 330px) {
+        .dream-arear h3 {
+            font-size: 12px;
+        }
+    }
+    @media (max-width: 265px) {
+        .dream-area h3 {
+            font-size: 10px;
+        }
+        .dream-area h2 {
+            font-size: 15px;
+        }
+    }
+}
+/**********<section class="dream-area"> End**********/
+
+
+
+@media (max-width: 768px) {
+    .experience-area {
+        height: auto;
+    }
+    .experience-area .half-width {
+        width: 100%;
+        float: none;
+        text-align: center;
+        padding: 40px 0;
+        margin: 10px 0;
+        height: none;
+        text-align: center;
+    }
+    .experience-area h2 {
+        font-size: 25px;
+        margin: 0;
+    }
+    @media (max-width: 400px) {
+        .experience-area h3 {
+            font-size: 14px;
+            padding-bottom: 20px;
+        }
+        .experience-area h2 {
+            font-size: 16px;
+    }
+    footer-area p {
+        font-size: 10px;
+    }
+    @media (max-width: 410px) {
+        .experience-area h2 {
+            font-size: 20px;
+        }
+    }
+    @media (max-width: 330px) {
+        .experience-area h3 {
+            font-size: 12px;
+        }
+    }
+    @media (max-width: 265px) {
+        experience-area h3 {
+            font-size: 10px;
+        }
+        experience-area h2 {
+            font-size: 15px;
+        }
+    }
+}
